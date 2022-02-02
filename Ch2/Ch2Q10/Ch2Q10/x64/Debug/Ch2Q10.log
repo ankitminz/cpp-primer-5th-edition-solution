@@ -1,0 +1,2 @@
+﻿  InitialValues.cpp
+D:\Cpp\CppPrimer5thEditionSolution\Ch2\Ch2Q10\Ch2Q10\InitialValues.cpp(22): error C4700: uninitialized local variable 'local_int' used

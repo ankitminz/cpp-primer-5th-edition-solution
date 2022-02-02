@@ -1,0 +1,4 @@
+﻿  isInvalid.cpp
+D:\Cpp\CppPrimer5thEditionSolution\Ch2\Ch2Q16\Ch2Q16\isInvalid.cpp(21,6): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Cpp\CppPrimer5thEditionSolution\Ch2\Ch2Q16\Ch2Q16\isInvalid.cpp(24,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ch2Q16.vcxproj -> D:\Cpp\CppPrimer5thEditionSolution\Ch2\Ch2Q16\x64\Debug\Ch2Q16.exe

@@ -1,0 +1,6 @@
+﻿  IncorrectNestedComments.cpp
+D:\Cpp\CppPrimer5thEditionSolution\Ch1\Ch1Q7\Ch1Q7\IncorrectNestedComments.cpp(1,83): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Cpp\CppPrimer5thEditionSolution\Ch1\Ch1Q7\Ch1Q7\IncorrectNestedComments.cpp(1,79): error C2146: syntax error: missing ';' before identifier 'why'
+D:\Cpp\CppPrimer5thEditionSolution\Ch1\Ch1Q7\Ch1Q7\IncorrectNestedComments.cpp(1,87): warning C4138: '*/' found outside of comment
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
